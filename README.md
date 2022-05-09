@@ -21,7 +21,7 @@ Languages and Tools:</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=redragon14368&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=en" alt="redragon14368" />
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redragon14368&theme=chartreuse-dark" alt="redragon14368" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redragon14368&theme=chartreuse-dark&hide_border=true" alt="redragon14368" />
 
 <p align="center">
 <a href="https://t.me/GoldenBoot"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
